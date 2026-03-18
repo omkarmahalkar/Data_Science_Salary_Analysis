@@ -10,9 +10,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, r2_score
 from sklearn.preprocessing import LabelEncoder
 
-# ================================================================
 # CONNECT TO MYSQL & LOAD DATA
-# ================================================================
 
 conn = mysql.connector.connect(
     host="localhost",
@@ -29,9 +27,7 @@ print("Shape:", df.shape)
 print(df.head())
 
 
-# ================================================================
 # FEATURE ENGINEERING
-# ================================================================
 
 exp_map    = {'EN': 'Entry', 'MI': 'Mid', 'SE': 'Senior', 'EX': 'Executive'}
 emp_map    = {'FT': 'Full-time', 'PT': 'Part-time', 'CT': 'Contract', 'FL': 'Freelance'}
@@ -63,9 +59,7 @@ print("\nFeature engineering done!")
 print(df[['Experience', 'Work_Mode', 'Job_Cluster', 'Salary_Tier']].head(10))
 
 
-# ================================================================
 # VISUALIZATION 1 — Salary by Experience Level
-# ================================================================
 
 fig, axes = plt.subplots(1, 2, figsize=(14, 6))
 fig.suptitle('Salary Distribution by Experience Level', fontsize=16, fontweight='bold')
@@ -90,9 +84,7 @@ plt.close()  # FIX: close after saving so next chart starts fresh
 print("Saved: viz1_salary_by_experience.png")
 
 
-# ================================================================
 # VISUALIZATION 2 — Remote Work Salary Premium
-# ================================================================
 
 remote_avg = df.groupby('Work_Mode', observed=True)['salary_in_usd'].mean().sort_values(ascending=False)
 
@@ -115,18 +107,15 @@ plt.close()
 print("Saved: viz2_remote_premium.png")
 
 
-# ================================================================
 # VISUALIZATION 3 — Career ROI Lollipop Chart
-# ================================================================
 
-# FIX: Convert Experience back to string before filtering to avoid Categorical issues
 df['Experience_str'] = df['Experience'].astype(str)
 entry_senior = df[df['Experience_str'].isin(['Entry', 'Senior'])].copy()
 
 pivot = entry_senior.groupby(['Job_Cluster', 'Experience_str'], observed=True)['salary_in_usd'] \
     .mean().unstack()
 
-# FIX: Select columns safely instead of renaming blindly
+
 pivot = pivot[['Entry', 'Senior']].dropna()
 pivot['roi_pct'] = ((pivot['Senior'] - pivot['Entry']) / pivot['Entry'] * 100).round(1)
 pivot = pivot.sort_values('roi_pct', ascending=True)
@@ -155,9 +144,7 @@ plt.close()
 print("Saved: viz3_career_roi.png")
 
 
-# ================================================================
 # VISUALIZATION 4 — Year-Over-Year Salary Trend
-# ================================================================
 
 yearly = df.groupby('work_year')['salary_in_usd'].agg(['mean', 'median']).reset_index()
 
@@ -185,9 +172,9 @@ plt.close()
 print("Saved: viz4_yoy_trend.png")
 
 
-# ================================================================
+
 # VISUALIZATION 5 — Top 10 Paying Job Titles
-# ================================================================
+
 
 top_titles = (
     df.groupby('job_title')['salary_in_usd']
@@ -214,18 +201,16 @@ plt.close()
 print("Saved: viz5_top_jobs.png")
 
 
-# ================================================================
+
 # VISUALIZATION 6 — Salary Heatmap (Experience x Company Size)
-# ================================================================
 
 heatmap_data = df.groupby(['Experience', 'Company_Size'], observed=True)['salary_in_usd'] \
     .mean().unstack()
 
-# FIX: Only reorder columns that actually exist in the data
+
 size_order = [s for s in ['Small', 'Medium', 'Large'] if s in heatmap_data.columns]
 heatmap_data = heatmap_data[size_order]
 
-# FIX: Reindex rows to ensure correct experience order
 heatmap_data = heatmap_data.reindex([e for e in exp_order if e in heatmap_data.index])
 
 plt.figure(figsize=(8, 5))
@@ -241,9 +226,8 @@ plt.close()
 print("Saved: viz6_heatmap.png")
 
 
-# ================================================================
+
 # MACHINE LEARNING — SALARY PREDICTION MODEL
-# ================================================================
 
 print("\n--- Building Salary Prediction Model ---")
 
@@ -274,9 +258,9 @@ print(f"Mean Absolute Error : ${mae:,.0f}")
 print(f"R² Score            : {r2:.3f}")
 
 
-# ================================================================
+
 # FEATURE IMPORTANCE CHART
-# ================================================================
+
 
 importance_df = pd.DataFrame({
     'Feature': features,
@@ -299,9 +283,7 @@ plt.close()
 print("Saved: viz7_feature_importance.png")
 
 
-# ================================================================
 # EXPORT CLEAN CSV FOR POWER BI
-# ================================================================
 
 df_export = df[[
     'work_year', 'Experience', 'Employment_Type', 'job_title',
