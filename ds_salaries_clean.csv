@@ -1,0 +1,608 @@
+Year,Experience,Employment_Type,Job_Title,Job_Cluster,Salary_USD,Work_Mode,Remote_Ratio,Employee_Country,Company_Country,Company_Size,Cross_Border,Salary_Tier
+2020,Mid,Full-time,Data Scientist,Scientist,79833,On-site,0,DE,DE,Large,False,Mid-Low
+2020,Senior,Full-time,Machine Learning Scientist,ML/AI,260000,On-site,0,JP,JP,Small,False,Top
+2020,Senior,Full-time,Big Data Engineer,Engineer,109024,Hybrid,50,GB,GB,Medium,False,Mid-High
+2020,Mid,Full-time,Product Data Analyst,Analyst,20000,On-site,0,HN,HN,Small,False,Low
+2020,Senior,Full-time,Machine Learning Engineer,ML/AI,150000,Hybrid,50,US,US,Large,False,Mid-High
+2020,Entry,Full-time,Data Analyst,Analyst,72000,Remote,100,US,US,Large,False,Mid-Low
+2020,Senior,Full-time,Lead Data Scientist,Scientist,190000,Remote,100,US,US,Small,False,Top
+2020,Mid,Full-time,Data Scientist,Scientist,35735,Hybrid,50,HU,HU,Large,False,Low
+2020,Mid,Full-time,Business Data Analyst,Analyst,135000,Remote,100,US,US,Large,False,Mid-High
+2020,Senior,Full-time,Lead Data Engineer,Engineer,125000,Hybrid,50,NZ,NZ,Small,False,Mid-High
+2020,Entry,Full-time,Data Scientist,Scientist,51321,On-site,0,FR,FR,Small,False,Low
+2020,Mid,Full-time,Data Scientist,Scientist,40481,On-site,0,IN,IN,Large,False,Low
+2020,Entry,Full-time,Data Scientist,Scientist,39916,On-site,0,FR,FR,Medium,False,Low
+2020,Mid,Full-time,Lead Data Analyst,Analyst,87000,Remote,100,US,US,Large,False,Mid-Low
+2020,Mid,Full-time,Data Analyst,Analyst,85000,Remote,100,US,US,Large,False,Mid-Low
+2020,Mid,Full-time,Data Analyst,Analyst,8000,Hybrid,50,PK,PK,Large,False,Low
+2020,Entry,Full-time,Data Engineer,Engineer,41689,Remote,100,JP,JP,Small,False,Low
+2020,Senior,Full-time,Big Data Engineer,Engineer,114047,Remote,100,PL,GB,Small,True,Mid-High
+2020,Entry,Full-time,Data Science Consultant,Other,5707,Hybrid,50,IN,IN,Medium,False,Low
+2020,Mid,Full-time,Lead Data Engineer,Engineer,56000,Remote,100,PT,US,Medium,True,Low
+2020,Mid,Full-time,Machine Learning Engineer,ML/AI,43331,On-site,0,CN,CN,Medium,False,Low
+2020,Mid,Full-time,Product Data Analyst,Analyst,6072,Remote,100,IN,IN,Large,False,Low
+2020,Senior,Full-time,Data Engineer,Engineer,47899,Hybrid,50,GR,GR,Large,False,Low
+2020,Mid,Full-time,BI Data Analyst,Analyst,98000,On-site,0,US,US,Medium,False,Mid-Low
+2020,Mid,Full-time,Lead Data Scientist,Scientist,115000,On-site,0,AE,AE,Large,False,Mid-High
+2020,Executive,Full-time,Director of Data Science,Management,325000,Remote,100,US,US,Large,False,Top
+2020,Entry,Full-time,Research Scientist,Scientist,42000,Hybrid,50,NL,NL,Large,False,Low
+2020,Senior,Full-time,Data Engineer,Engineer,33511,On-site,0,MX,MX,Small,False,Low
+2020,Entry,Contract,Business Data Analyst,Analyst,100000,Remote,100,US,US,Large,False,Mid-Low
+2020,Senior,Full-time,Machine Learning Manager,ML/AI,117104,Hybrid,50,CA,CA,Large,False,Mid-High
+2020,Mid,Full-time,Data Engineering Manager,Engineer,59303,Remote,100,DE,DE,Small,False,Low
+2020,Entry,Full-time,Big Data Engineer,Engineer,70000,Remote,100,US,US,Large,False,Mid-Low
+2020,Senior,Full-time,Data Scientist,Scientist,68428,Remote,100,GR,US,Large,True,Mid-Low
+2020,Mid,Full-time,Research Scientist,Scientist,450000,On-site,0,US,US,Medium,False,Top
+2020,Mid,Full-time,Data Analyst,Analyst,46759,Hybrid,50,FR,FR,Large,False,Low
+2020,Mid,Full-time,Data Engineer,Engineer,74130,Hybrid,50,AT,AT,Large,False,Mid-Low
+2020,Mid,Full-time,Data Science Consultant,Other,103000,Remote,100,US,US,Large,False,Mid-High
+2020,Entry,Full-time,Machine Learning Engineer,ML/AI,250000,Hybrid,50,US,US,Large,False,Top
+2020,Entry,Full-time,Data Analyst,Analyst,10000,Remote,100,NG,NG,Small,False,Low
+2020,Entry,Full-time,Machine Learning Engineer,ML/AI,138000,Remote,100,US,US,Small,False,Mid-High
+2020,Mid,Full-time,Data Scientist,Scientist,45760,Remote,100,PH,US,Small,True,Low
+2020,Executive,Full-time,Data Engineering Manager,Engineer,79833,Hybrid,50,ES,ES,Large,False,Mid-Low
+2020,Mid,Full-time,Machine Learning Infrastructure Engineer,ML/AI,50180,On-site,0,PT,PT,Medium,False,Low
+2020,Mid,Full-time,Data Engineer,Engineer,106000,Remote,100,US,US,Large,False,Mid-High
+2020,Mid,Full-time,Data Engineer,Engineer,112872,Hybrid,50,GB,GB,Large,False,Mid-High
+2020,Entry,Part-time,ML Engineer,ML/AI,15966,Remote,100,DE,DE,Small,False,Low
+2020,Mid,Full-time,Data Scientist,Scientist,76958,Remote,100,GB,GB,Small,False,Mid-Low
+2020,Senior,Full-time,Data Engineer,Engineer,188000,Remote,100,US,US,Large,False,Top
+2020,Mid,Full-time,Data Scientist,Scientist,105000,Remote,100,US,US,Large,False,Mid-High
+2020,Mid,Full-time,Data Engineer,Engineer,70139,Hybrid,50,FR,FR,Large,False,Mid-Low
+2020,Entry,Full-time,Data Analyst,Analyst,6072,On-site,0,IN,IN,Small,False,Low
+2020,Entry,Full-time,Data Analyst,Analyst,91000,Remote,100,US,US,Large,False,Mid-Low
+2020,Entry,Full-time,AI Scientist,ML/AI,45896,Hybrid,50,DK,DK,Small,False,Low
+2020,Entry,Full-time,Data Engineer,Engineer,54742,Remote,100,PK,DE,Large,True,Low
+2020,Senior,Freelance,Computer Vision Engineer,Engineer,60000,Remote,100,RU,US,Small,True,Low
+2020,Senior,Full-time,Principal Data Scientist,Scientist,148261,Remote,100,DE,DE,Medium,False,Mid-High
+2020,Mid,Full-time,Data Scientist,Scientist,38776,Remote,100,ES,ES,Medium,False,Low
+2020,Mid,Full-time,Data Scientist,Scientist,118000,Remote,100,US,US,Medium,False,Mid-High
+2020,Senior,Full-time,Data Scientist,Scientist,120000,Hybrid,50,US,US,Large,False,Mid-High
+2020,Mid,Full-time,Data Scientist,Scientist,138350,Remote,100,US,US,Medium,False,Mid-High
+2020,Mid,Full-time,Data Engineer,Engineer,110000,Remote,100,US,US,Large,False,Mid-High
+2020,Mid,Full-time,Data Engineer,Engineer,130800,Remote,100,ES,US,Medium,True,Mid-High
+2020,Entry,Part-time,Data Scientist,Scientist,21669,Hybrid,50,IT,IT,Small,False,Low
+2020,Senior,Full-time,Data Scientist,Scientist,412000,Remote,100,US,US,Large,False,Top
+2020,Senior,Full-time,Machine Learning Engineer,ML/AI,45618,Remote,100,HR,HR,Small,False,Low
+2020,Entry,Full-time,Data Scientist,Scientist,62726,Hybrid,50,DE,DE,Small,False,Low
+2020,Entry,Full-time,Data Scientist,Scientist,49268,On-site,0,DE,DE,Small,False,Low
+2020,Senior,Full-time,Data Science Manager,Management,190200,Remote,100,US,US,Medium,False,Top
+2020,Entry,Full-time,Data Scientist,Scientist,105000,Remote,100,US,US,Small,False,Mid-High
+2020,Senior,Full-time,Data Scientist,Scientist,91237,On-site,0,AT,AT,Small,False,Mid-Low
+2020,Mid,Full-time,Data Scientist,Scientist,62726,Hybrid,50,FR,LU,Small,True,Low
+2020,Mid,Full-time,Data Scientist,Scientist,42197,Hybrid,50,FR,FR,Small,False,Low
+2021,Entry,Full-time,Research Scientist,Scientist,82528,Hybrid,50,GB,GB,Large,False,Mid-Low
+2021,Executive,Full-time,BI Data Analyst,Analyst,150000,Remote,100,IN,US,Large,True,Mid-High
+2021,Executive,Full-time,Head of Data,Management,235000,Remote,100,US,US,Large,False,Top
+2021,Senior,Full-time,Data Scientist,Scientist,53192,Hybrid,50,FR,FR,Large,False,Low
+2021,Mid,Full-time,BI Data Analyst,Analyst,100000,Remote,100,US,US,Medium,False,Mid-Low
+2021,Mid,Part-time,3D Computer Vision Researcher,Other,5409,Hybrid,50,IN,IN,Medium,False,Low
+2021,Mid,Contract,ML Engineer,ML/AI,270000,Remote,100,US,US,Large,False,Top
+2021,Entry,Full-time,Data Analyst,Analyst,80000,Remote,100,US,US,Medium,False,Mid-Low
+2021,Senior,Full-time,Data Analytics Engineer,Engineer,79197,Remote,100,DE,DE,Large,False,Mid-Low
+2021,Mid,Full-time,Data Engineer,Engineer,140000,Remote,100,US,US,Large,False,Mid-High
+2021,Mid,Full-time,Applied Data Scientist,Scientist,54238,Hybrid,50,GB,CA,Large,True,Low
+2021,Mid,Full-time,Machine Learning Engineer,ML/AI,47282,Remote,100,ES,ES,Small,False,Low
+2021,Executive,Full-time,Director of Data Science,Management,153667,Remote,100,IT,PL,Large,True,Top
+2021,Mid,Full-time,Data Engineer,Engineer,28476,Remote,100,PL,PL,Large,False,Low
+2021,Entry,Full-time,Data Analyst,Analyst,59102,Hybrid,50,FR,FR,Medium,False,Low
+2021,Mid,Full-time,Data Analytics Engineer,Engineer,110000,Remote,100,US,US,Large,False,Mid-High
+2021,Senior,Full-time,Lead Data Analyst,Analyst,170000,Remote,100,US,US,Large,False,Top
+2021,Senior,Full-time,Data Analyst,Analyst,80000,Remote,100,BG,US,Small,True,Mid-Low
+2021,Senior,Full-time,Marketing Data Analyst,Analyst,88654,Remote,100,GR,DK,Large,True,Mid-Low
+2021,Entry,Full-time,Data Science Consultant,Other,76833,Remote,100,DE,DE,Small,False,Mid-Low
+2021,Mid,Full-time,Lead Data Analyst,Analyst,19609,Remote,100,IN,IN,Large,False,Low
+2021,Senior,Full-time,Lead Data Engineer,Engineer,276000,On-site,0,US,US,Large,False,Top
+2021,Entry,Full-time,Data Scientist,Scientist,29751,Hybrid,50,IN,IN,Large,False,Low
+2021,Mid,Full-time,Cloud Data Engineer,Engineer,89294,Hybrid,50,SG,SG,Large,False,Mid-Low
+2021,Entry,Part-time,AI Scientist,ML/AI,12000,Remote,100,BR,US,Small,True,Low
+2021,Mid,Full-time,Financial Data Analyst,Analyst,450000,Remote,100,US,US,Large,False,Top
+2021,Entry,Full-time,Computer Vision Software Engineer,Engineer,70000,Remote,100,US,US,Medium,False,Mid-Low
+2021,Mid,Full-time,Computer Vision Software Engineer,Engineer,95746,Remote,100,DE,US,Small,True,Mid-Low
+2021,Mid,Full-time,Data Analyst,Analyst,75000,On-site,0,US,US,Large,False,Mid-Low
+2021,Senior,Full-time,Data Engineer,Engineer,150000,Remote,100,US,US,Large,False,Mid-High
+2021,Mid,Full-time,BI Data Analyst,Analyst,36259,Hybrid,50,HU,US,Large,True,Low
+2021,Mid,Full-time,Data Analyst,Analyst,62000,On-site,0,US,US,Large,False,Low
+2021,Mid,Full-time,Data Scientist,Scientist,73000,On-site,0,US,US,Large,False,Mid-Low
+2021,Mid,Full-time,Data Analyst,Analyst,51519,Hybrid,50,GB,GB,Large,False,Low
+2021,Mid,Full-time,Research Scientist,Scientist,187442,Remote,100,CA,CA,Large,False,Top
+2021,Senior,Full-time,Data Engineer,Engineer,115000,Remote,100,US,US,Small,False,Mid-High
+2021,Senior,Full-time,Data Engineer,Engineer,150000,Remote,100,US,US,Medium,False,Mid-High
+2021,Entry,Full-time,Data Engineer,Engineer,30428,Remote,100,IN,IN,Large,False,Low
+2021,Senior,Full-time,Machine Learning Engineer,ML/AI,94564,Hybrid,50,DE,DE,Large,False,Mid-Low
+2021,Senior,Full-time,Director of Data Engineering,Engineer,113476,Remote,100,GB,GB,Medium,False,Mid-High
+2021,Senior,Full-time,Lead Data Engineer,Engineer,103160,Remote,100,GB,GB,Small,False,Mid-High
+2021,Entry,Part-time,AI Scientist,ML/AI,12000,Remote,100,PK,US,Medium,True,Low
+2021,Mid,Full-time,Data Engineer,Engineer,45391,Remote,100,NL,NL,Large,False,Low
+2021,Entry,Full-time,Machine Learning Scientist,ML/AI,225000,Remote,100,US,US,Large,False,Top
+2021,Mid,Full-time,Data Scientist,Scientist,50000,Remote,100,NG,NG,Large,False,Low
+2021,Mid,Full-time,Data Science Engineer,Engineer,40189,Remote,100,GR,GR,Medium,False,Low
+2021,Entry,Full-time,Data Analyst,Analyst,90000,Remote,100,US,US,Small,False,Mid-Low
+2021,Mid,Full-time,Data Engineer,Engineer,200000,Remote,100,US,US,Large,False,Top
+2021,Mid,Full-time,Big Data Engineer,Engineer,60000,Hybrid,50,ES,RO,Medium,True,Low
+2021,Senior,Full-time,Principal Data Engineer,Engineer,200000,Remote,100,US,US,Medium,False,Top
+2021,Entry,Full-time,Data Analyst,Analyst,50000,Remote,100,US,US,Medium,False,Low
+2021,Entry,Full-time,Applied Data Scientist,Scientist,110037,On-site,0,GB,GB,Large,False,Mid-High
+2021,Entry,Part-time,Data Analyst,Analyst,10354,Hybrid,50,ES,ES,Medium,False,Low
+2021,Mid,Full-time,Principal Data Scientist,Scientist,151000,Remote,100,US,US,Large,False,Top
+2021,Senior,Full-time,Machine Learning Scientist,ML/AI,120000,Hybrid,50,US,US,Small,False,Mid-High
+2021,Mid,Full-time,Data Scientist,Scientist,9466,On-site,0,IN,IN,Small,False,Low
+2021,Entry,Full-time,Machine Learning Engineer,ML/AI,20000,Remote,100,IN,IN,Small,False,Low
+2021,Senior,Full-time,Lead Data Scientist,Scientist,40570,Hybrid,50,IN,IN,Large,False,Low
+2021,Entry,Full-time,Machine Learning Developer,ML/AI,100000,Hybrid,50,IQ,IQ,Small,False,Mid-Low
+2021,Entry,Full-time,Data Scientist,Scientist,49646,Hybrid,50,FR,FR,Medium,False,Low
+2021,Mid,Full-time,Applied Machine Learning Scientist,ML/AI,38400,Remote,100,VN,US,Medium,True,Low
+2021,Senior,Full-time,Computer Vision Engineer,Engineer,24000,Remote,100,BR,BR,Medium,False,Low
+2021,Entry,Full-time,Data Scientist,Scientist,100000,On-site,0,US,US,Small,False,Mid-Low
+2021,Mid,Full-time,Data Analyst,Analyst,90000,Remote,100,US,US,Medium,False,Mid-Low
+2021,Mid,Full-time,ML Engineer,ML/AI,63711,Hybrid,50,JP,JP,Small,False,Mid-Low
+2021,Mid,Full-time,ML Engineer,ML/AI,77364,Hybrid,50,JP,JP,Small,False,Mid-Low
+2021,Senior,Full-time,Principal Data Scientist,Scientist,220000,On-site,0,US,US,Large,False,Top
+2021,Entry,Full-time,Data Scientist,Scientist,80000,Remote,100,US,US,Medium,False,Mid-Low
+2021,Mid,Full-time,Data Analyst,Analyst,135000,Remote,100,US,US,Large,False,Mid-High
+2021,Senior,Full-time,Data Science Manager,Management,240000,On-site,0,US,US,Large,False,Top
+2021,Senior,Full-time,Data Engineering Manager,Engineer,150000,On-site,0,US,US,Large,False,Mid-High
+2021,Mid,Full-time,Data Scientist,Scientist,82500,Remote,100,US,US,Small,False,Mid-Low
+2021,Mid,Full-time,Data Engineer,Engineer,100000,Remote,100,US,US,Large,False,Mid-Low
+2021,Senior,Full-time,Machine Learning Engineer,ML/AI,82744,Hybrid,50,BE,BE,Medium,False,Mid-Low
+2021,Mid,Full-time,Research Scientist,Scientist,62649,Hybrid,50,FR,FR,Medium,False,Low
+2021,Mid,Full-time,Data Engineer,Engineer,90000,Remote,100,US,US,Large,False,Mid-Low
+2021,Senior,Full-time,Data Engineering Manager,Engineer,153000,Remote,100,US,US,Large,False,Top
+2021,Senior,Full-time,Cloud Data Engineer,Engineer,160000,Remote,100,BR,US,Small,True,Top
+2021,Senior,Full-time,Director of Data Science,Management,168000,On-site,0,JP,JP,Small,False,Top
+2021,Mid,Full-time,Data Scientist,Scientist,150000,Remote,100,US,US,Medium,False,Mid-High
+2021,Mid,Full-time,Data Scientist,Scientist,75774,Remote,100,CA,CA,Large,False,Mid-Low
+2021,Entry,Full-time,Data Scientist,Scientist,13400,Remote,100,UA,UA,Large,False,Low
+2021,Senior,Full-time,Data Science Manager,Management,144000,Remote,100,US,US,Large,False,Mid-High
+2021,Senior,Full-time,Data Science Engineer,Engineer,127221,Hybrid,50,CA,CA,Large,False,Mid-High
+2021,Mid,Full-time,Data Scientist,Scientist,119059,Remote,100,SG,IL,Medium,True,Mid-High
+2021,Mid,Full-time,Applied Machine Learning Scientist,ML/AI,423000,Hybrid,50,US,US,Large,False,Top
+2021,Senior,Full-time,Data Analytics Manager,Management,120000,Remote,100,US,US,Medium,False,Mid-High
+2021,Entry,Full-time,Machine Learning Engineer,ML/AI,125000,Remote,100,US,US,Small,False,Mid-High
+2021,Executive,Full-time,Head of Data,Management,230000,Hybrid,50,RU,RU,Large,False,Top
+2021,Executive,Full-time,Head of Data Science,Management,85000,On-site,0,RU,RU,Medium,False,Mid-Low
+2021,Mid,Full-time,Data Engineer,Engineer,28369,Hybrid,50,MT,MT,Large,False,Low
+2021,Entry,Full-time,Data Science Consultant,Other,63831,Hybrid,50,DE,DE,Large,False,Mid-Low
+2021,Executive,Full-time,Director of Data Science,Management,130026,Hybrid,50,DE,DE,Medium,False,Mid-High
+2021,Senior,Full-time,Data Specialist,Other,165000,Remote,100,US,US,Large,False,Top
+2021,Entry,Full-time,Data Engineer,Engineer,80000,Remote,100,US,US,Large,False,Mid-Low
+2021,Executive,Full-time,Director of Data Science,Management,250000,On-site,0,US,US,Large,False,Top
+2021,Entry,Full-time,BI Data Analyst,Analyst,55000,Hybrid,50,US,US,Small,False,Low
+2021,Mid,Full-time,Data Architect,Other,150000,Remote,100,US,US,Large,False,Mid-High
+2021,Mid,Full-time,Data Architect,Other,170000,Remote,100,US,US,Large,False,Top
+2021,Mid,Full-time,Data Engineer,Engineer,82528,Remote,100,GB,GB,Large,False,Mid-Low
+2021,Entry,Full-time,Data Analyst,Analyst,60000,Remote,100,US,US,Small,False,Low
+2021,Senior,Full-time,Principal Data Scientist,Scientist,235000,Remote,100,US,US,Large,False,Top
+2021,Senior,Full-time,Research Scientist,Scientist,60757,Hybrid,50,PT,PT,Large,False,Low
+2021,Senior,Full-time,Data Engineering Manager,Engineer,174000,Remote,100,US,US,Large,False,Top
+2021,Mid,Full-time,Data Scientist,Scientist,2859,On-site,0,MX,MX,Small,False,Low
+2021,Mid,Full-time,Data Scientist,Scientist,40038,Remote,100,CL,CL,Large,False,Low
+2021,Entry,Full-time,Machine Learning Engineer,ML/AI,81000,Hybrid,50,US,US,Small,False,Mid-Low
+2021,Mid,Full-time,Data Scientist,Scientist,5679,Remote,100,IN,US,Small,True,Low
+2021,Mid,Full-time,Big Data Engineer,Engineer,22611,On-site,0,IN,IN,Large,False,Low
+2021,Mid,Full-time,Data Scientist,Scientist,90734,Hybrid,50,DE,DE,Large,False,Mid-Low
+2021,Mid,Full-time,Data Engineer,Engineer,26005,On-site,0,RO,US,Large,True,Low
+2021,Senior,Full-time,Finance Data Analyst,Analyst,61896,Hybrid,50,GB,GB,Large,False,Low
+2021,Mid,Freelance,Machine Learning Scientist,ML/AI,12000,Hybrid,50,PK,PK,Medium,False,Low
+2021,Mid,Full-time,Data Engineer,Engineer,4000,Remote,100,IR,IR,Medium,False,Low
+2021,Senior,Full-time,Data Analytics Engineer,Engineer,50000,Remote,100,VN,GB,Medium,True,Low
+2021,Executive,Full-time,Data Science Consultant,Other,69741,Remote,100,FR,ES,Small,True,Mid-Low
+2021,Senior,Full-time,Data Engineer,Engineer,76833,Hybrid,50,RO,GB,Small,True,Mid-Low
+2021,Mid,Full-time,Machine Learning Engineer,ML/AI,74000,Hybrid,50,JP,JP,Small,False,Mid-Low
+2021,Senior,Full-time,Data Science Manager,Management,152000,Remote,100,US,FR,Large,True,Top
+2021,Entry,Full-time,Machine Learning Engineer,ML/AI,21844,Hybrid,50,CO,CO,Medium,False,Low
+2021,Mid,Full-time,Big Data Engineer,Engineer,18000,On-site,0,MD,MD,Small,False,Low
+2021,Senior,Full-time,Data Science Manager,Management,174000,Remote,100,US,US,Large,False,Top
+2021,Senior,Full-time,Research Scientist,Scientist,96113,Hybrid,50,CA,CA,Large,False,Mid-Low
+2021,Mid,Full-time,Data Scientist,Scientist,147000,Hybrid,50,US,US,Large,False,Mid-High
+2021,Entry,Full-time,BI Data Analyst,Analyst,9272,Remote,100,KE,KE,Small,False,Low
+2021,Senior,Full-time,Machine Learning Engineer,ML/AI,24342,Remote,100,IN,IN,Large,False,Low
+2021,Senior,Full-time,Data Science Manager,Management,54094,Hybrid,50,IN,US,Large,True,Low
+2021,Entry,Full-time,Data Science Consultant,Other,90000,Remote,100,US,US,Small,False,Mid-Low
+2021,Mid,Full-time,Data Scientist,Scientist,61467,Hybrid,50,DE,AT,Medium,True,Low
+2021,Senior,Full-time,Machine Learning Infrastructure Engineer,ML/AI,195000,Remote,100,US,US,Medium,False,Top
+2021,Mid,Full-time,Data Scientist,Scientist,37825,Remote,100,ES,ES,Large,False,Low
+2021,Senior,Full-time,Research Scientist,Scientist,50000,Remote,100,FR,US,Small,True,Low
+2021,Mid,Full-time,Data Scientist,Scientist,160000,Remote,100,US,US,Large,False,Top
+2021,Mid,Full-time,Data Scientist,Scientist,12901,On-site,0,BR,BR,Small,False,Low
+2021,Senior,Full-time,Machine Learning Engineer,ML/AI,200000,Remote,100,US,US,Large,False,Top
+2021,Senior,Full-time,Data Engineer,Engineer,165000,On-site,0,US,US,Medium,False,Top
+2021,Mid,Freelance,Data Engineer,Engineer,20000,On-site,0,IT,US,Large,True,Low
+2021,Senior,Full-time,Data Analytics Manager,Management,120000,On-site,0,US,US,Large,False,Mid-High
+2021,Mid,Full-time,Machine Learning Engineer,ML/AI,24823,Hybrid,50,SI,SI,Large,False,Low
+2021,Mid,Full-time,Research Scientist,Scientist,56738,Hybrid,50,FR,FR,Small,False,Low
+2021,Mid,Full-time,Data Engineer,Engineer,66022,Hybrid,50,HK,GB,Small,True,Mid-Low
+2021,Entry,Full-time,Big Data Engineer,Engineer,5882,On-site,0,IN,CH,Large,True,Low
+2021,Entry,Full-time,Machine Learning Engineer,ML/AI,24823,Hybrid,50,DE,DE,Medium,False,Low
+2021,Senior,Full-time,Principal Data Engineer,Engineer,185000,Remote,100,US,US,Large,False,Top
+2021,Entry,Part-time,Computer Vision Engineer,Engineer,28609,Hybrid,50,DK,DK,Small,False,Low
+2021,Mid,Full-time,Data Scientist,Scientist,90734,Hybrid,50,DE,DE,Large,False,Mid-Low
+2021,Mid,Full-time,Machine Learning Engineer,ML/AI,88654,Remote,100,BE,BE,Medium,False,Mid-Low
+2021,Senior,Full-time,Data Analytics Manager,Management,140000,Remote,100,US,US,Large,False,Mid-High
+2021,Mid,Full-time,Machine Learning Engineer,ML/AI,46597,Remote,100,PL,PL,Large,False,Low
+2021,Mid,Full-time,Data Scientist,Scientist,116914,Hybrid,50,GB,GB,Large,False,Mid-High
+2021,Mid,Full-time,Data Scientist,Scientist,33808,On-site,0,IN,IN,Medium,False,Low
+2021,Mid,Full-time,Data Scientist,Scientist,56256,Hybrid,50,GB,GB,Large,False,Low
+2021,Senior,Full-time,Machine Learning Scientist,ML/AI,225000,Remote,100,US,CA,Large,True,Top
+2021,Executive,Contract,Principal Data Scientist,Scientist,416000,Remote,100,US,US,Small,False,Top
+2021,Senior,Full-time,Data Scientist,Scientist,87738,Remote,100,CA,CA,Small,False,Mid-Low
+2021,Mid,Full-time,Data Scientist,Scientist,88654,Hybrid,50,DE,DE,Large,False,Mid-Low
+2021,Senior,Full-time,Data Scientist,Scientist,135000,On-site,0,US,US,Large,False,Mid-High
+2021,Senior,Full-time,Data Analyst,Analyst,71786,Remote,100,CA,CA,Medium,False,Mid-Low
+2021,Entry,Full-time,Big Data Engineer,Engineer,16228,Remote,100,IN,IN,Large,False,Low
+2021,Senior,Full-time,ML Engineer,ML/AI,256000,Remote,100,US,US,Small,False,Top
+2021,Senior,Full-time,Director of Data Engineering,Engineer,200000,Remote,100,US,US,Large,False,Top
+2021,Senior,Full-time,Data Analyst,Analyst,200000,Remote,100,US,US,Large,False,Top
+2021,Mid,Full-time,Data Architect,Other,180000,Remote,100,US,US,Large,False,Top
+2021,Mid,Full-time,Head of Data Science,Management,110000,On-site,0,US,US,Small,False,Mid-High
+2021,Mid,Full-time,Research Scientist,Scientist,63810,Remote,100,CA,CA,Medium,False,Mid-Low
+2021,Mid,Full-time,Data Scientist,Scientist,46809,Remote,100,ES,ES,Medium,False,Low
+2021,Entry,Full-time,Data Scientist,Scientist,4000,On-site,0,VN,VN,Medium,False,Low
+2021,Entry,Full-time,Data Engineer,Engineer,21637,Hybrid,50,IN,IN,Medium,False,Low
+2021,Senior,Full-time,Data Scientist,Scientist,103691,Remote,100,CA,CA,Large,False,Mid-High
+2021,Mid,Full-time,Data Analyst,Analyst,80000,Remote,100,US,US,Large,False,Mid-Low
+2021,Mid,Full-time,Data Engineer,Engineer,110000,Remote,100,US,US,Large,False,Mid-High
+2021,Senior,Full-time,Data Scientist,Scientist,165000,Remote,100,US,US,Large,False,Top
+2021,Entry,Full-time,AI Scientist,ML/AI,18053,Remote,100,IN,AS,Small,True,Low
+2021,Mid,Full-time,Data Engineer,Engineer,72212,Hybrid,50,GB,GB,Large,False,Mid-Low
+2021,Entry,Full-time,Data Scientist,Scientist,36643,Hybrid,50,FR,FR,Large,False,Low
+2021,Mid,Full-time,Data Engineer,Engineer,12103,On-site,0,TR,TR,Medium,False,Low
+2021,Senior,Full-time,Data Engineer,Engineer,96282,Hybrid,50,GB,GB,Large,False,Mid-Low
+2021,Senior,Full-time,Principal Data Analyst,Analyst,170000,Remote,100,US,US,Medium,False,Top
+2021,Mid,Full-time,Data Scientist,Scientist,115000,Hybrid,50,US,US,Large,False,Mid-High
+2021,Entry,Full-time,Data Scientist,Scientist,90000,Remote,100,US,US,Small,False,Mid-Low
+2021,Executive,Full-time,Principal Data Engineer,Engineer,600000,Remote,100,US,US,Large,False,Top
+2021,Entry,Full-time,Data Scientist,Scientist,28399,Remote,100,IN,IN,Medium,False,Low
+2021,Mid,Full-time,Data Analyst,Analyst,93000,Remote,100,US,US,Large,False,Mid-Low
+2021,Senior,Full-time,Big Data Architect,Other,99703,Hybrid,50,CA,CA,Medium,False,Mid-Low
+2021,Mid,Full-time,Data Engineer,Engineer,200000,Remote,100,US,US,Large,False,Top
+2021,Senior,Full-time,Principal Data Scientist,Scientist,173762,Remote,100,DE,DE,Medium,False,Top
+2021,Senior,Full-time,Machine Learning Engineer,ML/AI,185000,Hybrid,50,US,US,Large,False,Top
+2021,Executive,Full-time,Director of Data Science,Management,141846,On-site,0,DE,DE,Large,False,Mid-High
+2021,Mid,Full-time,Data Scientist,Scientist,130000,Hybrid,50,US,US,Large,False,Mid-High
+2021,Senior,Full-time,Data Analyst,Analyst,63831,Hybrid,50,DE,DE,Large,False,Mid-Low
+2021,Mid,Full-time,Data Scientist,Scientist,16904,Remote,100,IN,IN,Small,False,Low
+2021,Senior,Full-time,Machine Learning Engineer,ML/AI,66265,On-site,0,IN,IN,Large,False,Mid-Low
+2021,Mid,Full-time,Data Scientist,Scientist,25532,Remote,100,RS,DE,Small,True,Low
+2021,Senior,Full-time,Lead Data Engineer,Engineer,160000,Hybrid,50,PR,US,Small,True,Top
+2021,Mid,Full-time,Data Engineer,Engineer,93150,On-site,0,US,US,Medium,False,Mid-Low
+2021,Mid,Full-time,Data Engineer,Engineer,111775,On-site,0,US,US,Medium,False,Mid-High
+2021,Mid,Full-time,Data Engineer,Engineer,28016,Remote,100,TR,TR,Medium,False,Low
+2021,Entry,Full-time,Data Engineer,Engineer,65013,Hybrid,50,DE,DE,Medium,False,Mid-Low
+2021,Entry,Full-time,Data Engineer,Engineer,72500,Remote,100,US,US,Large,False,Mid-Low
+2021,Senior,Full-time,Computer Vision Engineer,Engineer,18907,On-site,0,BR,BR,Medium,False,Low
+2021,Entry,Full-time,Data Science Consultant,Other,76833,On-site,0,DE,DE,Large,False,Mid-Low
+2021,Entry,Full-time,Machine Learning Engineer,ML/AI,85000,Remote,100,NL,DE,Small,True,Mid-Low
+2021,Senior,Full-time,Data Scientist,Scientist,77684,Hybrid,50,FR,FR,Medium,False,Mid-Low
+2021,Entry,Full-time,Data Scientist,Scientist,100000,Remote,100,US,US,Medium,False,Mid-Low
+2021,Entry,Full-time,Data Scientist,Scientist,58000,Hybrid,50,US,US,Large,False,Low
+2021,Senior,Full-time,AI Scientist,ML/AI,55000,Remote,100,ES,ES,Large,False,Low
+2021,Senior,Full-time,Data Scientist,Scientist,20171,Hybrid,50,TR,TR,Large,False,Low
+2021,Entry,Full-time,Business Data Analyst,Analyst,59102,Remote,100,LU,LU,Large,False,Low
+2021,Mid,Full-time,Data Engineer,Engineer,112000,Remote,100,US,US,Large,False,Mid-High
+2021,Entry,Full-time,Research Scientist,Scientist,100000,On-site,0,JE,CN,Large,True,Mid-Low
+2021,Mid,Part-time,Data Engineer,Engineer,69741,Remote,100,NL,NL,Large,False,Mid-Low
+2021,Senior,Contract,Staff Data Scientist,Scientist,105000,Remote,100,US,US,Medium,False,Mid-High
+2021,Mid,Full-time,Research Scientist,Scientist,69999,Hybrid,50,CZ,CZ,Large,False,Mid-Low
+2021,Senior,Full-time,Data Science Manager,Management,94665,Hybrid,50,IN,IN,Large,False,Mid-Low
+2021,Senior,Full-time,Head of Data,Management,102839,Remote,100,SI,SI,Large,False,Mid-High
+2021,Mid,Full-time,Data Scientist,Scientist,109000,Hybrid,50,US,US,Large,False,Mid-High
+2021,Mid,Full-time,Machine Learning Engineer,ML/AI,51064,Hybrid,50,IT,IT,Large,False,Low
+2022,Senior,Full-time,Data Engineer,Engineer,135000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,155000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Analyst,Analyst,120600,Remote,100,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Scientist,Scientist,130000,On-site,0,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Scientist,Scientist,90000,On-site,0,US,US,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,170000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Engineer,Engineer,150000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,102100,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,84900,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,136620,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,99360,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,117789,On-site,0,GB,GB,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,104702,On-site,0,GB,GB,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,146000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,123000,Remote,100,US,US,Medium,False,Mid-High
+2022,Entry,Full-time,Data Engineer,Engineer,52351,Remote,100,GB,GB,Medium,False,Low
+2022,Senior,Full-time,Data Analyst,Analyst,99000,On-site,0,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analyst,Analyst,116000,On-site,0,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Analyst,Analyst,106260,On-site,0,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Analyst,Analyst,126500,On-site,0,US,US,Medium,False,Mid-High
+2022,Executive,Full-time,Data Engineer,Engineer,242000,Remote,100,US,US,Medium,False,Top
+2022,Executive,Full-time,Data Engineer,Engineer,200000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,65438,On-site,0,GB,GB,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Scientist,Scientist,39263,On-site,0,GB,GB,Medium,False,Low
+2022,Mid,Full-time,Data Engineer,Engineer,78526,On-site,0,GB,GB,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,52351,On-site,0,GB,GB,Medium,False,Low
+2022,Senior,Full-time,Data Scientist,Scientist,165220,Remote,100,US,US,Medium,False,Top
+2022,Entry,Full-time,Data Engineer,Engineer,45807,Remote,100,GB,GB,Medium,False,Low
+2022,Senior,Full-time,Data Scientist,Scientist,120160,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,90320,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,181940,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,132320,On-site,0,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,220110,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,160080,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,180000,On-site,0,US,US,Large,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,120000,On-site,0,US,US,Large,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,124190,Remote,100,US,US,Medium,False,Mid-High
+2022,Executive,Full-time,Data Analyst,Analyst,130000,Remote,100,US,US,Medium,False,Mid-High
+2022,Executive,Full-time,Data Analyst,Analyst,110000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,170000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Analyst,Analyst,115500,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,112900,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,90320,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analyst,Analyst,112900,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,90320,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,165400,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,132320,Remote,100,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Analyst,Analyst,167000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,243900,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Analyst,Analyst,136600,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,109280,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,128875,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,93700,Remote,100,US,US,Medium,False,Mid-Low
+2022,Executive,Full-time,Head of Data Science,Management,224000,Remote,100,US,US,Medium,False,Top
+2022,Executive,Full-time,Head of Data Science,Management,167875,Remote,100,US,US,Medium,False,Top
+2022,Executive,Full-time,Analytics Engineer,Engineer,175000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,156600,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,108800,On-site,0,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,95550,On-site,0,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,113000,On-site,0,US,US,Large,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,135000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Science Manager,Management,161342,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Science Manager,Management,137141,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,167000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,123000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,78526,On-site,0,GB,GB,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,65438,On-site,0,GB,GB,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,150000,On-site,0,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,211500,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Architect,Other,192400,Remote,100,CA,CA,Medium,False,Top
+2022,Senior,Full-time,Data Architect,Other,90700,Remote,100,CA,CA,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analyst,Analyst,130000,Remote,100,CA,CA,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,61300,Remote,100,CA,CA,Medium,False,Low
+2022,Senior,Full-time,Data Analyst,Analyst,130000,Remote,100,CA,CA,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,61300,Remote,100,CA,CA,Medium,False,Low
+2022,Senior,Full-time,Data Engineer,Engineer,160000,On-site,0,US,US,Large,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,138600,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,136000,On-site,0,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Analyst,Analyst,58000,On-site,0,US,US,Small,False,Low
+2022,Executive,Full-time,Analytics Engineer,Engineer,135000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,170000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,123000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,189650,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,164996,On-site,0,US,US,Medium,False,Top
+2022,Mid,Full-time,ETL Developer,Other,54957,On-site,0,GR,GR,Medium,False,Low
+2022,Mid,Full-time,ETL Developer,Other,54957,On-site,0,GR,GR,Medium,False,Low
+2022,Executive,Full-time,Lead Data Engineer,Engineer,118187,Remote,100,CA,CA,Small,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,132000,On-site,0,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,165400,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Architect,Other,208775,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Architect,Other,147800,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,136994,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,101570,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analyst,Analyst,128875,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,93700,Remote,100,US,US,Medium,False,Mid-Low
+2022,Executive,Full-time,Head of Machine Learning,ML/AI,79039,Hybrid,50,IN,IN,Large,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,132320,Remote,100,US,US,Medium,False,Mid-High
+2022,Entry,Full-time,Machine Learning Engineer,ML/AI,37300,Remote,100,GB,GB,Large,False,Low
+2022,Senior,Full-time,Data Analyst,Analyst,164000,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,155000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Machine Learning Engineer,ML/AI,124333,On-site,0,GB,GB,Medium,False,Mid-High
+2022,Mid,Full-time,Machine Learning Engineer,ML/AI,98158,On-site,0,GB,GB,Medium,False,Mid-Low
+2022,Mid,Full-time,AI Scientist,ML/AI,120000,On-site,0,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,112900,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,90320,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analytics Manager,Management,145000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analytics Manager,Management,105400,Remote,100,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Machine Learning Engineer,ML/AI,87932,Remote,100,FR,DE,Medium,True,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,117789,On-site,0,GB,GB,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,215300,Remote,100,US,US,Large,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,158200,Remote,100,US,US,Large,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,209100,Remote,100,US,US,Large,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,154600,Remote,100,US,US,Large,False,Top
+2022,Senior,Full-time,Data Analyst,Analyst,115934,On-site,0,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,81666,On-site,0,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,175000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Engineer,Engineer,98158,On-site,0,GB,GB,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Analyst,Analyst,58000,On-site,0,US,US,Small,False,Low
+2022,Senior,Full-time,Data Engineer,Engineer,183600,Remote,100,US,US,Large,False,Top
+2022,Mid,Full-time,Data Analyst,Analyst,52351,Remote,100,GB,GB,Medium,False,Low
+2022,Senior,Full-time,Data Scientist,Scientist,180000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,71982,On-site,0,GB,GB,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Scientist,Scientist,45807,On-site,0,GB,GB,Medium,False,Low
+2022,Mid,Full-time,Data Engineer,Engineer,65949,Remote,100,GR,GR,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,49461,Remote,100,GR,GR,Medium,False,Low
+2022,Mid,Full-time,Data Engineer,Engineer,78526,Remote,100,GB,GB,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,58894,Remote,100,GB,GB,Medium,False,Low
+2022,Senior,Full-time,Data Scientist,Scientist,260000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Science Engineer,Engineer,60000,Remote,100,AR,MX,Large,True,Low
+2022,Mid,Full-time,Data Engineer,Engineer,63900,On-site,0,US,US,Medium,False,Mid-Low
+2022,Mid,Full-time,Machine Learning Scientist,ML/AI,160000,Remote,100,US,US,Large,False,Top
+2022,Mid,Full-time,Machine Learning Scientist,ML/AI,112300,Remote,100,US,US,Large,False,Mid-High
+2022,Mid,Full-time,Data Science Manager,Management,241000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Science Manager,Management,159000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,180000,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,80000,On-site,0,US,US,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,82900,On-site,0,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,100800,Remote,100,US,US,Large,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,49461,Remote,100,ES,ES,Medium,False,Low
+2022,Senior,Full-time,Data Scientist,Scientist,140400,On-site,0,US,US,Large,False,Mid-High
+2022,Mid,Full-time,Data Analyst,Analyst,39263,Remote,100,GB,GB,Medium,False,Low
+2022,Mid,Full-time,Data Analyst,Analyst,43966,Remote,100,ES,ES,Medium,False,Low
+2022,Mid,Full-time,Data Analyst,Analyst,32974,Remote,100,ES,ES,Medium,False,Low
+2022,Mid,Full-time,Data Engineer,Engineer,87932,Remote,100,ES,ES,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,76940,Remote,100,ES,ES,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,104702,Remote,100,GB,GB,Medium,False,Mid-High
+2022,Mid,Full-time,Data Engineer,Engineer,91614,Remote,100,GB,GB,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,65949,Remote,100,ES,ES,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,87932,Remote,100,GR,GR,Medium,False,Mid-Low
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,189650,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,164996,On-site,0,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Analyst,Analyst,43966,Remote,100,GR,GR,Medium,False,Low
+2022,Mid,Full-time,Data Analyst,Analyst,32974,Remote,100,GR,GR,Medium,False,Low
+2022,Mid,Full-time,Data Engineer,Engineer,98158,Remote,100,GB,GB,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,78526,Remote,100,GB,GB,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,215300,On-site,0,US,US,Large,False,Top
+2022,Mid,Full-time,Data Engineer,Engineer,76940,Remote,100,GR,GR,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,209100,Remote,100,US,US,Large,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,154600,Remote,100,US,US,Large,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,180000,Remote,100,US,US,Medium,False,Top
+2022,Entry,Full-time,ML Engineer,ML/AI,21983,Remote,100,PT,PT,Large,False,Low
+2022,Senior,Full-time,Data Engineer,Engineer,80000,Remote,100,US,US,Medium,False,Mid-Low
+2022,Mid,Full-time,Machine Learning Developer,ML/AI,78791,Remote,100,CA,CA,Medium,False,Mid-Low
+2022,Executive,Full-time,Director of Data Science,Management,196979,Hybrid,50,CA,CA,Large,False,Top
+2022,Mid,Full-time,Machine Learning Engineer,ML/AI,120000,Remote,100,US,US,Small,False,Mid-High
+2022,Entry,Full-time,Computer Vision Engineer,Engineer,125000,On-site,0,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,NLP Engineer,Engineer,37236,Hybrid,50,US,US,Large,False,Low
+2022,Senior,Full-time,Data Engineer,Engineer,105000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Lead Machine Learning Engineer,ML/AI,87932,On-site,0,DE,DE,Medium,False,Mid-Low
+2022,Mid,Full-time,Business Data Analyst,Analyst,18442,Remote,100,IN,IN,Medium,False,Low
+2022,Mid,Full-time,Data Scientist,Scientist,31615,Remote,100,IN,IN,Large,False,Low
+2022,Mid,Full-time,Machine Learning Infrastructure Engineer,ML/AI,58255,Hybrid,50,PT,PT,Large,False,Low
+2022,Entry,Full-time,Financial Data Analyst,Analyst,100000,Hybrid,50,US,US,Large,False,Mid-Low
+2022,Mid,Part-time,Data Engineer,Engineer,54957,Hybrid,50,DE,DE,Large,False,Low
+2022,Entry,Full-time,Data Scientist,Scientist,18442,Remote,100,IN,IN,Medium,False,Low
+2022,Senior,Full-time,Principal Data Scientist,Scientist,162674,Remote,100,DE,DE,Medium,False,Top
+2022,Entry,Full-time,Data Engineer,Engineer,120000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Research Scientist,Scientist,144000,Hybrid,50,US,US,Large,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,104890,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,100000,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,140000,Remote,100,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Analyst,Analyst,135000,Remote,100,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Analyst,Analyst,50000,Remote,100,US,US,Medium,False,Low
+2022,Senior,Full-time,Data Scientist,Scientist,220000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,140000,Remote,100,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Scientist,Scientist,183228,On-site,0,GB,GB,Medium,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,91614,On-site,0,GB,GB,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,185100,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,220000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,200000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,120000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,120000,Remote,100,AE,AE,Small,False,Mid-High
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,65000,Remote,100,AE,AE,Small,False,Mid-Low
+2022,Executive,Full-time,Data Engineer,Engineer,324000,Remote,100,US,US,Medium,False,Top
+2022,Executive,Full-time,Data Engineer,Engineer,216000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,210000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,120000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,230000,Remote,100,US,US,Medium,False,Top
+2022,Entry,Part-time,Data Scientist,Scientist,100000,Hybrid,50,DZ,DZ,Medium,False,Mid-Low
+2022,Mid,Freelance,Data Scientist,Scientist,100000,Remote,100,CA,US,Medium,True,Mid-Low
+2022,Entry,Contract,Applied Machine Learning Scientist,ML/AI,31875,Remote,100,TN,CZ,Medium,True,Low
+2022,Senior,Full-time,Head of Data,Management,200000,Remote,100,MY,US,Medium,True,Top
+2022,Mid,Full-time,Principal Data Analyst,Analyst,75000,Remote,100,CA,CA,Small,False,Mid-Low
+2022,Mid,Full-time,Data Scientist,Scientist,35590,Remote,100,PL,PL,Large,False,Low
+2022,Senior,Full-time,Machine Learning Developer,ML/AI,78791,Remote,100,CA,CA,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,100000,Remote,100,BR,US,Medium,True,Mid-Low
+2022,Mid,Full-time,Machine Learning Scientist,ML/AI,153000,Hybrid,50,US,US,Medium,False,Top
+2022,Entry,Full-time,Data Engineer,Engineer,58035,Remote,100,PK,DE,Medium,True,Low
+2022,Senior,Full-time,Data Scientist,Scientist,165000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Research Scientist,Scientist,93427,Hybrid,50,FR,FR,Large,False,Mid-Low
+2022,Entry,Full-time,Data Scientist,Scientist,52396,Remote,100,CA,CA,Large,False,Low
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,62651,Remote,100,NL,NL,Large,False,Low
+2022,Mid,Full-time,Head of Data,Management,32974,Remote,100,EE,EE,Small,False,Low
+2022,Entry,Full-time,Data Scientist,Scientist,40000,Remote,100,JP,MY,Large,True,Low
+2022,Mid,Full-time,Machine Learning Engineer,ML/AI,87425,Remote,100,AU,AU,Large,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,115000,Remote,100,US,US,Medium,False,Mid-High
+2022,Entry,Full-time,Data Scientist,Scientist,86703,Hybrid,50,AU,AU,Medium,False,Mid-Low
+2022,Mid,Full-time,Applied Machine Learning Scientist,ML/AI,75000,Remote,100,BO,US,Large,True,Mid-Low
+2022,Mid,Full-time,Research Scientist,Scientist,64849,On-site,0,AT,AT,Large,False,Mid-Low
+2022,Entry,Full-time,Research Scientist,Scientist,120000,Remote,100,US,US,Large,False,Mid-High
+2022,Mid,Full-time,Applied Data Scientist,Scientist,157000,Remote,100,US,US,Large,False,Top
+2022,Entry,Full-time,Computer Vision Software Engineer,Engineer,150000,Remote,100,AU,AU,Small,False,Mid-High
+2022,Mid,Full-time,Business Data Analyst,Analyst,70912,Hybrid,50,CA,CA,Large,False,Mid-Low
+2022,Entry,Full-time,Data Engineer,Engineer,65000,Remote,100,US,US,Small,False,Mid-Low
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,71444,Remote,100,IE,IE,Small,False,Mid-Low
+2022,Entry,Full-time,Data Analytics Engineer,Engineer,20000,On-site,0,PK,PK,Medium,False,Low
+2022,Mid,Full-time,Data Scientist,Scientist,48000,Remote,100,RU,US,Small,True,Low
+2022,Senior,Full-time,Data Science Manager,Management,152500,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Engineer,Engineer,68147,Remote,100,FR,FR,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Scientist,Scientist,122346,On-site,0,CH,CH,Large,False,Mid-High
+2022,Senior,Full-time,Applied Data Scientist,Scientist,380000,Remote,100,US,US,Large,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,69336,Remote,100,CA,CA,Medium,False,Mid-Low
+2022,Entry,Full-time,Computer Vision Engineer,Engineer,10000,Remote,100,PT,LU,Medium,True,Low
+2022,Mid,Full-time,Data Analyst,Analyst,20000,Remote,100,GR,GR,Small,False,Low
+2022,Senior,Full-time,Data Analytics Lead,Management,405000,Remote,100,US,US,Large,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,135000,Remote,100,US,US,Large,False,Mid-High
+2022,Senior,Full-time,Applied Data Scientist,Scientist,177000,Remote,100,US,US,Large,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,78000,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analyst,Analyst,135000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,100000,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analyst,Analyst,90320,Remote,100,US,US,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Analyst,Analyst,85000,On-site,0,CA,CA,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Analyst,Analyst,75000,On-site,0,CA,CA,Medium,False,Mid-Low
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,214000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Machine Learning Engineer,ML/AI,192600,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Architect,Other,266400,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Architect,Other,213120,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Analyst,Analyst,112900,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,155000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,141300,On-site,0,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Scientist,Scientist,102100,On-site,0,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,115934,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,81666,Remote,100,US,US,Medium,False,Mid-Low
+2022,Mid,Full-time,Data Engineer,Engineer,206699,On-site,0,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Engineer,Engineer,99100,On-site,0,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,130000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,115000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,110500,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,130000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,99050,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,160000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,205300,On-site,0,US,US,Large,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,140400,On-site,0,US,US,Large,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,176000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,144000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,200100,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,160000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,145000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,70500,On-site,0,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,205300,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,140400,On-site,0,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Analytics Engineer,Engineer,205300,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Analytics Engineer,Engineer,184700,On-site,0,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,175100,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,140250,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,116150,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,54000,On-site,0,US,US,Medium,False,Low
+2022,Senior,Full-time,Data Analyst,Analyst,170000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Analyst,Analyst,65438,On-site,0,GB,GB,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analyst,Analyst,80000,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,140000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,210000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,140000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,100000,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analyst,Analyst,69000,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Scientist,Scientist,210000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,140000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,210000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Analyst,Analyst,150075,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,100000,Remote,100,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Engineer,Engineer,25000,Remote,100,US,US,Medium,False,Low
+2022,Senior,Full-time,Data Analyst,Analyst,126500,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,106260,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Engineer,Engineer,220110,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,160080,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Analyst,Analyst,105000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,110925,Remote,100,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,Data Analyst,Analyst,45807,On-site,0,GB,GB,Medium,False,Low
+2022,Senior,Full-time,Data Scientist,Scientist,140000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,99000,On-site,0,US,US,Medium,False,Mid-Low
+2022,Senior,Full-time,Data Analyst,Analyst,60000,Remote,100,US,US,Medium,False,Low
+2022,Senior,Full-time,Data Architect,Other,192564,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Architect,Other,144854,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,230000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Scientist,Scientist,150000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analytics Manager,Management,150260,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Analytics Manager,Management,109280,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Scientist,Scientist,210000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Analyst,Analyst,170000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,160000,Remote,100,US,US,Medium,False,Top
+2022,Mid,Full-time,Data Scientist,Scientist,130000,Remote,100,US,US,Medium,False,Mid-High
+2022,Entry,Full-time,Data Analyst,Analyst,67000,On-site,0,CA,CA,Medium,False,Mid-Low
+2022,Entry,Full-time,Data Analyst,Analyst,52000,On-site,0,CA,CA,Medium,False,Low
+2022,Senior,Full-time,Data Engineer,Engineer,154000,Remote,100,US,US,Medium,False,Top
+2022,Senior,Full-time,Data Engineer,Engineer,126000,Remote,100,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,129000,On-site,0,US,US,Medium,False,Mid-High
+2022,Senior,Full-time,Data Analyst,Analyst,150000,Remote,100,US,US,Medium,False,Mid-High
+2022,Mid,Full-time,AI Scientist,ML/AI,200000,Remote,100,IN,US,Large,True,Top
